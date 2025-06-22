@@ -1,0 +1,1 @@
+Remember to change the me.loaforc.soundapi.cfg file methods GenerateReports = true, SoundReplacementHandler = true back to false to stop debugging after specific audio file cues names found. copy, paste, to file after every change
