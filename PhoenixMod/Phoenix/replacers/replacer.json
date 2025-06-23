@@ -2,6 +2,17 @@
   "replacements": [
     {
       "matches": [
+        "*:enemy valuable thrower pickup outro throw"
+      ],
+      "sounds": [
+        {
+          "sound": "Yeet.mp3",
+          "volume": 7
+        }
+      ]
+    },
+    {
+      "matches": [
         "*:msc main menu"
       ],
       "sounds": [
@@ -22,7 +33,7 @@
       "sounds": [
         {
           "sound": "dafu.wav",
-          "volume": 2
+          "volume": 8
         }
       ]
     },
@@ -34,7 +45,104 @@
       "sounds": [
         {
           "sound": "mp40.wav",
-          "volume": 1.75
+          "volume": 7
+        }
+      ]
+    },
+    {
+      "matches": [
+        "*:shop music"
+      ],
+      "sounds": [
+        {
+          "sound": "Chambeus_Bad_at_Siege.ogg",
+          "weight": 6
+        }
+      ]
+    },
+    {
+      "matches": [
+        "*:enemy hidden man breathe out01",
+        "*:enemy hidden man breathe out02",
+        "*:enemy hidden man breathe out03",
+        "*:enemy hidden man breathe out04",
+        "*:enemy hidden man breathe out05",
+        "*:enemy hidden man breathe out06",
+        "*:enemy hidden man breathe out07",
+        "*:enemy hidden man breathe out08",
+        "*:enemy hidden man breathe out09",
+        "*:enemy hidden man breathe out010",
+        "*:enemy hidden man breathe fast out01",
+        "*:enemy hidden man breathe fast out02",
+        "*:enemy hidden man breathe fast out03",
+        "*:enemy hidden man breathe fast out04",
+        "*:enemy hidden man breathe fast out05",
+        "*:enemy hidden man breathe fast out06",
+        "*:enemy hidden man breathe fast out07",
+        "*:enemy hidden man breathe fast out08",
+        "*:enemy hidden man breathe fast out09",
+        "*:enemy hidden man breathe fast out010",
+        "*:enemy hidden man breathe in01",
+        "*:enemy hidden man breathe in02",
+        "*:enemy hidden man breathe in03",
+        "*:enemy hidden man breathe in04",
+        "*:enemy hidden man breathe in05",
+        "*:enemy hidden man breathe in06",
+        "*:enemy hidden man breathe in07",
+        "*:enemy hidden man breathe in08",
+        "*:enemy hidden man breathe in09",
+        "*:enemy hidden man breathe in010",
+        "*:enemy hidden man breathe fast in01",
+        "*:enemy hidden man breathe fast in02",
+        "*:enemy hidden man breathe fast in03",
+        "*:enemy hidden man breathe fast in04",
+        "*:enemy hidden man breathe fast in05",
+        "*:enemy hidden man breathe fast in06",
+        "*:enemy hidden man breathe fast in07",
+        "*:enemy hidden man breathe fast in08",
+        "*:enemy hidden man breathe fast in09",
+        "*:enemy hidden man breathe fast in010"
+      ],
+      "sounds": [
+        {
+          "sound": "death_sceaming.wav",
+          "volume": 25
+        }
+      ]
+    },
+    {
+      "matches": [
+        "*:Enemy Near 01",
+        "*:Enemy Near 02",
+        "*:Enemy Near 03",
+        "*:Enemy Near 04",
+        "*:Enemy Near 05",
+        "*:Enemy Near 06",
+        "*:Enemy Near 07",
+        "*:Enemy Near 08"
+      ],
+      "sounds": [
+        {
+          "sound": "actualone.ogg"
+        },
+        {
+          "sound": "goofyone.ogg"
+        }
+      ]
+    },
+    {
+      "matches": [
+        "*:snd_dirt_tracker_equip",
+        "*:snd_dirt_tracker_loop",
+        "*:rugrat*pickup*",
+        "*:snd_pickup*",
+        "*:snd_*_pickup*",
+        "*:rugrat_item_*"
+      ],
+      "sounds": [
+        {
+          "sound": "mine.wav",
+          "volume": 10
         }
       ]
     }
