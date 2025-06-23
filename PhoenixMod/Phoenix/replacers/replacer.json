@@ -9,6 +9,34 @@
           "sound": "intro.ogg"
         }
       ]
+    },
+    {
+      "matches": [
+        "*:enemy hunter aim start01",
+        "*:enemy hunter aim start02",
+        "*:enemy hunter aim start03",
+        "*:enemy hunter aim start global01",
+        "*:enemy hunter aim start global02",
+        "*:enemy hunter aim start global03"
+      ],
+      "sounds": [
+        {
+          "sound": "dafu.wav",
+          "volume": 2
+        }
+      ]
+    },
+    {
+      "matches": [
+        "*:enemy hunter shoot",
+        "*:enemy hunter shoot global"
+      ],
+      "sounds": [
+        {
+          "sound": "mp40.wav",
+          "volume": 1.75
+        }
+      ]
     }
   ]
 }
